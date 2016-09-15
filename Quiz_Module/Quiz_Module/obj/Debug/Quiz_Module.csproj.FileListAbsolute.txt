@@ -1,0 +1,13 @@
+F:\Quiz_Module\Quiz_Module\Quiz_Module\bin\Debug\Quiz_Module.exe.config
+F:\Quiz_Module\Quiz_Module\Quiz_Module\bin\Debug\Quiz_Module.exe
+F:\Quiz_Module\Quiz_Module\Quiz_Module\bin\Debug\Quiz_Module.pdb
+F:\Quiz_Module\Quiz_Module\Quiz_Module\obj\Debug\Quiz_Module.csprojResolveAssemblyReference.cache
+F:\Quiz_Module\Quiz_Module\Quiz_Module\obj\Debug\Quiz_Module.Form1.resources
+F:\Quiz_Module\Quiz_Module\Quiz_Module\obj\Debug\Quiz_Module.Properties.Resources.resources
+F:\Quiz_Module\Quiz_Module\Quiz_Module\obj\Debug\Quiz_Module.csproj.GenerateResource.Cache
+F:\Quiz_Module\Quiz_Module\Quiz_Module\obj\Debug\Quiz_Module.exe
+F:\Quiz_Module\Quiz_Module\Quiz_Module\obj\Debug\Quiz_Module.pdb
+F:\Quiz_Module\Quiz_Module\Quiz_Module\bin\Debug\Quiz_Module.exe.manifest
+F:\Quiz_Module\Quiz_Module\Quiz_Module\bin\Debug\Quiz_Module.application
+F:\Quiz_Module\Quiz_Module\Quiz_Module\obj\Debug\Quiz_Module.exe.manifest
+F:\Quiz_Module\Quiz_Module\Quiz_Module\obj\Debug\Quiz_Module.application
